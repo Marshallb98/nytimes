@@ -13,3 +13,9 @@ a > img {
     min-width: 240px;
     min-height: 240px;
 }
+button {
+    margin-bottom: 4px;
+}
+#articlesResults > li {
+    margin-bottom: 4px;
+}
