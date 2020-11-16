@@ -1,0 +1,15 @@
+img {
+    float: left;
+}
+li > a {
+    margin: 0 auto;
+    font-size: large;
+}
+a > img {
+    margin-top: 10px;
+    margin-right: 5px;
+    max-width: 240px;
+    max-height: 240px;
+    min-width: 240px;
+    min-height: 240px;
+}
